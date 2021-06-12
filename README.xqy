@@ -7,3 +7,6 @@
       W - WHERE
       O - ORDER BY
       R - RETURN
+      
+MARKLOGIC 
+    CTS
